@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/dmytrodanylyk/android-morphing-button.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/radhikayusuf/Jajan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\SMKN 4 BDG\android\Android studio project" />
